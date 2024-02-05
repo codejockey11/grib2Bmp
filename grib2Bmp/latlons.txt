@@ -1,0 +1,8 @@
+// modulo((long3+180),360)-180
+
+// N = 54.995000
+// W = -129.995
+// E = -60.005002
+// S = 20.005001
+
+// AIzaSyCnoazHa0WEibhtQZmBqlMtXcr9LOjN5Dw
